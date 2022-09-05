@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Sriracha&family=Yeseva+One&display=swap');
+
+.navbar {
+    background: rgba(255, 255, 255, 0.055);
+    backdrop-filter: blur(2px);
+}
+
+.navbar a {
+    color: #1C658C;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+}
+
+.h1font1 {
+    font-family: 'Yeseva One', cursive;
+}
+
+.h1font2 {
+    font-family: 'Sriracha', cursive;
+}
+
+.fontp {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1,
+h2,
+h5,
+p {
+    color: #1C658C;
+}
+
+.home {
+    background-image: url(img/header-bg.png);
+    max-width: 100%;
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#tentang,
+#visi-misi,
+#line,
+#sejarah {
+    background-color: #EEEEEE;
+}
+
+footer {
+    background-color: #1C658C;
+}
+
+footer h3,
+footer p {
+    color: #EEEEEE;
+}
+
+hr.solid {
+    border-top: 3px solid #398AB9;
+}
+
+.bg-list-group-item {
+    background: rgba(255, 255, 255, 0.055);
+    backdrop-filter: blur(2px);
+}
